@@ -6,7 +6,9 @@ Employee attrition is when an organization loses an employee and has an outstand
 From an organization’s standpoint, the most influential queries regarding employee attrition become the likelihood that an employee will leave, and what factors are influential in determining whether an employee leaves the organization. 
 
 ## How to Run Code Locally
-- Run Python Code file using Jupyter Notebook server (such as Anaconda) for Python code
+- Clone repo
+- Go into repository on local device
+- Run Python Code file using Jupyter Notebook server (such as Anaconda) or other preferred Python IDE
 
 ## Libraries Used
 - pandas
